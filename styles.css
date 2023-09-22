@@ -1,0 +1,104 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+
+div.no1 {
+    background-color: rgb(255, 167, 167);
+}
+
+div.no2 {
+    color: blue;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+
+}
+
+div.no3 {
+    background-color: rgb(255, 167, 167);
+
+}
+
+#no4 {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+div.no5 {
+    background-color: rgb(255, 167, 167);
+    font-weight: bold;
+}
+
+.inv,
+.fan {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.inv {
+    background-color: black;
+    color: white;
+}
+
+.fan {
+    background-color: yellow;
+}
+
+.av.prop {
+    height: auto;
+    width: 300px;
+}
+
+.av.dist {
+    height: 400px;
+    width: 200px;
+}
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.para {
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.para1 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.confirm {
+    background-color: green;
+    color: white;
+    border-color: black;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.cancel {
+    background-color: white;
+    color: black;
+    border-color: black;
+    border-radius: 2px;
+    font-weight: bold;
+
+}
+
+div.text {
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+    font-size: 22px;
+}
+
+div .child {
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 14px;
+}
